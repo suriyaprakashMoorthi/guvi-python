@@ -1,2 +1,3 @@
 num1=int(input())
-print(num1+1)
+nxt=num1+1
+print(nxt)
